@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.ayrenking.startggwrapper",
+    "sha256_cert_fingerprints":
+    ["E7:EE:7E:8B:A4:5D:DC:54:4D:CE:6A:B7:57:D3:02:4D:54:89:65:19:A6:E3:E8:91:CE:50:C6:EB:30:69:58:AD"]
+  }
+}]
